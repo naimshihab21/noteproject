@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id earum eius vel sequi autem tenetur illo voluptas quam reprehenderit a, quia obcaecati sit vero, impedit esse enim dolor sed, officiis est cum omnis. Possimus fugit labore nihil odit. Aut, veniam molestias quos at ducimus voluptatem sapiente quo consectetur vero soluta eum unde! Inventore recusandae eligendi quo aperiam quam quis soluta deleniti corrupti, blanditiis sequi suscipit explicabo! Beatae voluptatibus qui eum perspiciatis laborum dignissimos nisi sunt omnis possimus dolorum? Praesentium explicabo error minus dolore aliquid sunt sed necessitatibus, libero vero adipisci officia, cupiditate quisquam harum laboriosam, exercitationem fuga. Recusandae, odio est. Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nisi minima facere earum ex assumenda nihil repudiandae saepe ea magni. Optio consectetur odio alias vero harum sint, non laboriosam totam nemo exercitationem, incidunt placeat aut cupiditate nobis accusantium voluptates sunt voluptas molestiae ducimus culpa quidem? Laboriosam omnis ducimus nobis aspernatur.",
+      "likes": 22
+    },
+    {
+      "title": "Training for Make a New Project",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum odit labore facilis enim esse repellendus iste, doloribus tempore, rerum, vel asperiores? Nostrum aperiam veniam nihil error quia voluptas eum dolor similique at voluptate rerum eaque minus fuga fugit tempore, distinctio deserunt nam et tenetur consectetur laborum esse cumque consequatur? Aliquam, architecto dolorem? Unde, et voluptate quasi modi odit, perspiciatis nemo eius harum numquam provident ipsa totam esse veniam, eaque sit quam. Dolore a ea expedita sit autem odio vel explicabo? Repellat, itaque. Obcaecati molestiae quibusdam iste molestias ad similique error culpa, sapiente consequatur eligendi dolorum ducimus adipisci dicta aperiam a!",
+      "likes": 0,
+      "id": 3
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or Ract?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
